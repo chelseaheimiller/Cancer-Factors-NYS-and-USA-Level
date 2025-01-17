@@ -4,6 +4,9 @@
 data visualization techniques, and problem-solving approaches. Any resemblance to real-life data or events is purely coincidental. 
 This project is not affiliated with Rochester Regional Health, though their hospital locations were used solely for demonstrative purposes.
 
+[View Cancer Factors at the United States and New York Stae Level on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel))
+
+
 There are many factors that can provide insight into cancer incidence rates in an area. Using the cancer deaths dataset provided by the American Cancer Society, factors such as death due to cancer rates, median income, poverty percentage, and recent trends have been investigated at the country and New York State level to determine areas for Rochester Regional Health to focus on to improve health outcomes. This dataset contains both data from the year of 2015 and trend data for the years of 2009-2013. 
 Summary of United States
 To investigate factors at the country level, the states were divided into regions (Appendix A). Cancer incidences were investigated using a map that shows that New York, Texas, California, and Pennsylvania have the highest number of cancer incidences in 2015 at the state level. All regions show that majority of the area within the identified region has stable cancer levels but the Midwest and Southeast have the highest number of cancer incidences. While it is not a perfect relationship, for the most part as median income goes down poverty percent goes up. Median income is highest in the Northeast and lowest in the Southeast. 
