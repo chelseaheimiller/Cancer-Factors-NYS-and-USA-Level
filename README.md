@@ -4,7 +4,7 @@
 data visualization techniques, and problem-solving approaches. Any resemblance to real-life data or events is purely coincidental. 
 This project is not affiliated with Rochester Regional Health, though their hospital locations were used solely for demonstrative purposes.
 
-[View Cancer Factors at the United States and New York Stae Level on Tableau Public]([https://public.tableau.com/views/YourDashboardLink](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel))
+[View Cancer Factors at the United States and New York Stae Level on Tableau Public](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel)
 
 
 There are many factors that can provide insight into cancer incidence rates in an area. Using the cancer deaths dataset provided by the American Cancer Society, factors such as death due to cancer rates, median income, poverty percentage, and recent trends have been investigated at the country and New York State level to determine areas for Rochester Regional Health to focus on to improve health outcomes. This dataset contains both data from the year of 2015 and trend data for the years of 2009-2013. 
