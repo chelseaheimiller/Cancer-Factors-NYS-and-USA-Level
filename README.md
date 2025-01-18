@@ -4,13 +4,14 @@
 data visualization techniques, and problem-solving approaches. Any resemblance to real-life data or events is purely coincidental. 
 This project is not affiliated with Rochester Regional Health, though their hospital locations were used solely for demonstrative purposes.*
 
-[View Cancer Factors at the United States and New York Stae Level on Tableau Public](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel)
+[View Cancer Factors at the United States and New York State Level on Tableau Public](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel)
 
-&nbsp;&nbsp;&nbsp;&nbsp;There are many factors that can provide insight into cancer incidence rates in an area. Using a cancer deaths dataset aggregated, factors such as death due to cancer rates, median income, poverty percentage, and recent trends have been investigated at the country and New York State level to determine areas for a local health system to focus on to improve health outcomes. This dataset contains both data from the year of 2015 and trend data for the years of 2009-2013.
+&nbsp;&nbsp;&nbsp;&nbsp;There are many factors that can provide insight into cancer incidence rates in an area. Using a cancer deaths dataset, aggregated factors such as death due to cancer rates, median income, poverty percentage, and recent trends have been investigated at the country and New York State level to determine areas for a local health system to focus on to improve health outcomes. This dataset contains both data from the year of 2015 and trend data for the years of 2009-2013.
 
 ## Summary of United States
 
 &nbsp;&nbsp;&nbsp;&nbsp;To investigate factors at the country level, the states were divided into regions (Appendix A). Cancer incidences were investigated using a map that shows that New York, Texas, California, and Pennsylvania have the highest number of cancer incidences in 2015 at the state level. All regions show that the majority of the area within the individual region has stable cancer levels but the Midwest and Southeast have the highest number of cancer incidences. While it is not a perfect relationship, for the most part as median income goes down poverty percent goes up. Median income is highest in the Northeast and lowest in the Southeast.
+
 <br> &nbsp;&nbsp;&nbsp;&nbsp;There appears to be a relationship between study counts and cancer incidences with more studies happening in California, New York, Illinois, Ohio, and Texas.. This could potentially be explained due to the high number of research universities and hospitals in these areas. These states are also those that have higher cancer incidences. It cannot be determined that studies are more likely to exist in areas with higher incidences or if people who live in areas with studies have better access to cancer screenings leading to higher cancer incidences. It is also possible that people with cancer are moving to areas with studies to receive treatment they may otherwise not have access to. When the states are separated into regions, the Midwest and the West have the highest study counts. 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;In terms of trends, there are two different trends regarding cancer incidence numbers that are available. One is the average five-year trend of cancer incidences between 2009 and 2013 which shows that except for South Dakota all states are showing a reduction in cancer incidences over five years with the Southeast showing the biggest decrease in cancer incidences. The second five-year trend available is the average annual count of cancer incidences which is highest in California. The West has the highest average of cancer incidences with Southeast having the second lowest which is in line with the Southeast having the largest reduction in cancer incidences. Death rates are the highest in the Midwest and Southeast. Both of which are areas with higher study counts, lower median incomes, and higher poverty percentages.
 
@@ -33,9 +34,11 @@ This project is not affiliated with Rochester Regional Health, though their hosp
 <br> &nbsp;&nbsp;&nbsp;&nbsp;While not a challenge I had to think carefully about aggregating variables in a way that made sense for the variable and the grouping I was trying to show. For example, median income of the state should be the median of all the income values of all the records belonging to a state and not the sum of all median incomes. In contrast, when calculating cancer incidences for a state you would want to sum the cancer incidences for all records in a state. One that I found particularly interesting to think about was average deaths per year. To get a full picture of this variable at an aggregate level all values for the grouping (ex: state) must be summed even though first instinct may be to average it. Averaging the average deaths per year would give an artificially low number because the average of the average would be taken. Summing the averages together instead gives you a full picture of the area being looked at.
 
 
+
 ## References
 Cancer Center List. Cancer center list - OCCWEBAPP 2.2. (2023). https://cancercenters.cancer.gov/Center/CCList 
 <br> New York State Department of Health. (2023, April 27). NYSDOH_Hopsital_Profile. https://health.data.ny.gov/Health/Hospital-Profile/7a62-tptu
 
 
-Appendix A
+<br> Appendix A: States in each region
+![](https://github.com/chelseaheimiller/Cancer-Factors-NYS-and-USA-Level/blob/main/Images/Appendix%20A.png)
