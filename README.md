@@ -1,7 +1,7 @@
 # Cancer Factors at the United States and New York State Level
 
-*This project was created as part of a data discovery exercise for academic purposes, using a dataset provided through a course. All data, scenarios, and findings presented are fictional and were developed to demonstrate analytical skills, 
-data visualization techniques, and problem-solving approaches. Any resemblance to real-life data or events is purely coincidental. 
+*This project was created as part of a data discovery exercise for academic purposes, using a dataset provided through a course. All scenarios and findings presented are fictional and were developed to demonstrate analytical skills, 
+data visualization techniques, and problem-solving approaches. Any resemblance to real-life events is purely coincidental. 
 This project is not affiliated with Rochester Regional Health, though their hospital locations were used solely for demonstrative purposes.*
 
 [View Cancer Factors at the United States and New York State Level on Tableau Public](https://public.tableau.com/app/profile/chelsea.heimiller/viz/CancerFactorsandtheUnitedStatesandNewYorkStateLevel/CancerFactorsattheUnitedStatesandNewYorkStateLevel)
@@ -10,7 +10,7 @@ This project is not affiliated with Rochester Regional Health, though their hosp
 
 ## Summary of United States
 
-&nbsp;&nbsp;&nbsp;&nbsp;To investigate factors at the country level, the states were divided into regions (Appendix A). Cancer incidences were investigated using a map that shows that New York, Texas, California, and Pennsylvania have the highest number of cancer incidences in 2015 at the state level. All regions show that the majority of the area within the individual region has stable cancer levels but the Midwest and Southeast have the highest number of cancer incidences. While it is not a perfect relationship, for the most part as median income goes down poverty percent goes up. Median income is highest in the Northeast and lowest in the Southeast.
+&nbsp;&nbsp;&nbsp;&nbsp;To investigate factors at the country level, the states were divided into regions (Appendix A). Cancer incidences were investigated using a map that shows that New York, Texas, California, and Pennsylvania have the highest number of cancer incidences in 2015 at the state level. All regions show that the majority of the area within the individual region has stable cancer levels but the Midwest and Southeast have the highest number of cancer incidences (Figure 1). While it is not a perfect relationship, for the most part as median income goes down poverty percent goes up. Median income is highest in the Northeast and lowest in the Southeast.
 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;There appears to be a relationship between study counts and cancer incidences with more studies happening in California, New York, Illinois, Ohio, and Texas.. This could potentially be explained due to the high number of research universities and hospitals in these areas. These states are also those that have higher cancer incidences. It cannot be determined that studies are more likely to exist in areas with higher incidences or if people who live in areas with studies have better access to cancer screenings leading to higher cancer incidences. It is also possible that people with cancer are moving to areas with studies to receive treatment they may otherwise not have access to. When the states are separated into regions, the Midwest and the West have the highest study counts. 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;In terms of trends, there are two different trends regarding cancer incidence numbers that are available. One is the average five-year trend of cancer incidences between 2009 and 2013 which shows that except for South Dakota all states are showing a reduction in cancer incidences over five years with the Southeast showing the biggest decrease in cancer incidences. The second five-year trend available is the average annual count of cancer incidences which is highest in California. The West has the highest average of cancer incidences with Southeast having the second lowest which is in line with the Southeast having the largest reduction in cancer incidences. Death rates are the highest in the Midwest and Southeast. Both of which are areas with higher study counts, lower median incomes, and higher poverty percentages.
@@ -41,4 +41,5 @@ Cancer Center List. Cancer center list - OCCWEBAPP 2.2. (2023). https://cancerce
 
 
 <br> Appendix A: States in each region
-![](https://github.com/chelseaheimiller/Cancer-Factors-NYS-and-USA-Level/blob/main/Images/Appendix%20A.png)
+<br> <img src="https://github.com/chelseaheimiller/Cancer-Factors-NYS-and-USA-Level/blob/main/Images/Appendix%20A_1.png" alt="Appendix A: States in each region" width="600">
+
